@@ -1,2 +1,3 @@
-# gitNotes
-GitHub notes
+# My GitHub Notes
+
+Repository for git operations
